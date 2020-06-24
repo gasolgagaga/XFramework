@@ -1,0 +1,3 @@
+[submodule "Framework/Assets/Script/Framework"]
+	path = Framework/Assets/Script/Framework
+	url = ../Framework.git
